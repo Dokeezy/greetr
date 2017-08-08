@@ -3,5 +3,5 @@
 
 This library allow you to greet people easily.
 
-`var g = G$('John', 'Snow', 'en');`
-`console.log(g.greeting()); // Hello John !`
+`var g = G$('John', 'Snow', 'en');
+console.log(g.greeting()); // Hello John !`
